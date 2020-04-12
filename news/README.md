@@ -17,3 +17,7 @@
 - [PowerApps](https://powerapps.microsoft.com/)
 - [unqork](https://www.unqork.com/no-code-software-platform-enterprise-apps-unqork)
 - [AppSheet](https://www.appsheet.com/)
+
+## FinTech
+- [Claim Process Automation – an Enterprise Insurance Story](https://youtu.be/dT0INU-fmI8) : COGITO
+- [Unqork - The Fulfillment Platform For Insurance](https://youtu.be/pWbF6DAOhi4) : Unqork
