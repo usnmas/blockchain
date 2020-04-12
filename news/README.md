@@ -21,3 +21,4 @@
 ## FinTech
 - [Claim Process Automation – an Enterprise Insurance Story](https://youtu.be/dT0INU-fmI8) : COGITO
 - [Unqork - The Fulfillment Platform For Insurance](https://youtu.be/pWbF6DAOhi4) : Unqork
+- [인도네시아 핀테크 동향과 현지 기업 소개](https://blog.naver.com/koreafintech/221629207309) : 한국핀테크지원센터 기자단 뉴스
