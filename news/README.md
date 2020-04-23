@@ -11,6 +11,7 @@
 
 ## IoT Development 
 - [국내 업체들 독특한 ‘IoT 플랫폼’ 출시 잇따라](http://www.press9.kr/news/articleView.html?idxno=43496) : xensor (블록체인기반 sensed data & long range GW), SoT (Satisfaction of Things), iRAMS using AI
+- [카드·현금 필요 없어요…‘얼굴’로 밥값 결제](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=032&aid=0003005442) : LG CNS 얼굴 인식 결제 및 Blockchain & AI 연동
 
 ## Mobile Web Development 
 - [MS "코딩 필요없는 비즈니스 앱 개발 시대 연다"](https://n.news.naver.com/article/293/0000027493)
