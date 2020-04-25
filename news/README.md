@@ -25,5 +25,5 @@
 - [인도네시아 핀테크 동향과 현지 기업 소개](https://blog.naver.com/koreafintech/221629207309) : 한국핀테크지원센터 기자단 뉴스
 
 ## General
-- [나폴레온 힐의 인생 수업](https://m.post.naver.com/viewer/postView.nhn?volumeNo=27929619&memberNo=29740882&vType=VERTICAL) : [How to Sell Your Way through Life],[Think and Grow Rich],[The Law of Success]
+- [나폴레온 힐의 인생 수업](https://m.post.naver.com/viewer/postView.nhn?volumeNo=27929619&memberNo=29740882&vType=VERTICAL) : "How to Sell Your Way through Life", "Think and Grow Rich", "The Law of Success"
   
