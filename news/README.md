@@ -9,7 +9,7 @@
 - [삼성, ‘블록체인’으로 의약품 유통 시스템 구축 나선다](http://www.hitnews.co.kr/news/articleView.html?idxno=16019&fbclid=IwAR3D2GEnuJt_77LOSH2gSMHuFCjT7cXtKt90TYYBlcHmiB3Txtk86vjEgiI) 
 - [블록체인 국민 프로젝트, 심사과정 불공정 '의혹'](https://beinews.net/news/articleView.html?idxno=31847)
 
-## IoT Business News 
+## Blockchain IoT Business News 
 - [국내 업체들 독특한 ‘IoT 플랫폼’ 출시 잇따라](http://www.press9.kr/news/articleView.html?idxno=43496) : xensor (블록체인기반 sensed data & long range GW), SoT (Satisfaction of Things), iRAMS using AI
 - [카드·현금 필요 없어요…‘얼굴’로 밥값 결제](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=032&aid=0003005442) : LG CNS 얼굴 인식 결제 및 Blockchain & AI 연동
 
