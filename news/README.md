@@ -1,4 +1,4 @@
-# Reference Site for Blockchain & IoT 
+# Reference News Site for Blockchain & IoT 
 
 ## Blockchain Business News 
 
