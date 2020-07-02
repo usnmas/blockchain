@@ -10,6 +10,7 @@
 - [블록체인 국민 프로젝트, 심사과정 불공정 '의혹'](https://beinews.net/news/articleView.html?idxno=31847)
 - [페이게이트, IB엔터테인먼트와 크라우드펀딩 업무협약](http://m.mhj21.com/131256) : 페이게이트 빌바오크라우드 (bilbaocrowd) 크라우드펀딩
 - [카카오 블록체인 '클레이튼' 우리 생활을 어떻게 바꿀까](http://m.hani.co.kr/arti/economy/it/898283.html?_fr=gg) : Kakao GroundX Klaytn
+- ["이더리움 등 외산 플랫폼 종속 우려"… 국산 기술개발 절실 [블록人터뷰] (2020.05)](https://www.fnnews.com/news/202005251710498623) : ETRI PoN (Proof of Nonce)
 
 ## Blockchain IoT Business News 
 - [국내 업체들 독특한 ‘IoT 플랫폼’ 출시 잇따라](http://www.press9.kr/news/articleView.html?idxno=43496) : xensor (블록체인기반 sensed data & long range GW), SoT (Satisfaction of Things), iRAMS using AI
