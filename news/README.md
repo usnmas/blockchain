@@ -12,6 +12,7 @@
 - [카카오 블록체인 '클레이튼' 우리 생활을 어떻게 바꿀까](http://m.hani.co.kr/arti/economy/it/898283.html?_fr=gg) : Kakao GroundX Klaytn
 - ["이더리움 등 외산 플랫폼 종속 우려"… 국산 기술개발 절실 [블록人터뷰] (2020.05)](https://www.fnnews.com/news/202005251710498623) : ETRI PoN (Proof of Nonce)
 - [진짜 '모바일 운전면허증'은 내년..."카드 발급도 가능" (2020.06)](https://zdnet.co.kr/view/?no=20200623171121) : 정부주도 DID 운전면허증 vs 통신3사+PASS앱
+- [7년 후엔 부동산·요트도 쪼개서 살 수 있다 (2020.07](https://dstreet.io/news/view-detail?id=N20200717095011225776) : Security Token. Fractional Ownership.
 
 ## Blockchain IoT Business News 
 - [국내 업체들 독특한 ‘IoT 플랫폼’ 출시 잇따라](http://www.press9.kr/news/articleView.html?idxno=43496) : xensor (블록체인기반 sensed data & long range GW), SoT (Satisfaction of Things), iRAMS using AI
