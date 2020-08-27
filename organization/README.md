@@ -3,6 +3,7 @@
 ## Global Organization Official Web Site
 
 - [Hyperledger](https://www.hyperledger.org/) : Hyperledger Projects hosted by Linux Foundation
+- [FIDO alliance](https://fidoalliance.org/) : Fast IDenty Online
 
 ## Domestic Company
 
