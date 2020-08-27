@@ -13,10 +13,10 @@
 - ["이더리움 등 외산 플랫폼 종속 우려"… 국산 기술개발 절실 [블록人터뷰] (2020.05)](https://www.fnnews.com/news/202005251710498623) : ETRI PoN (Proof of Nonce)
 - [7년 후엔 부동산·요트도 쪼개서 살 수 있다 (2020.07)](https://dstreet.io/news/view-detail?id=N20200717095011225776) : Security Token. Fractional Ownership.
 - [Status DApp](https://status.im/) : Messaging DApp. Web3 browser
-- [블록체인 업계, 기술 차별화 전략 "특허 선점하라"](https://www.etnews.com/20200826000139) : 젠서 (LPWAN) / SGA (클러스터 분할 연산)
+- [블록체인 업계, 기술 차별화 전략 "특허 선점하라" (2020.08)](https://www.etnews.com/20200826000139) : 젠서 (LPWAN) / SGA (클러스터 분할 연산)
 
 ## IoT-related Business News 
 - [국내 업체들 독특한 ‘IoT 플랫폼’ 출시 잇따라](http://www.press9.kr/news/articleView.html?idxno=43496) : xensor (블록체인기반 sensed data & long range GW), SoT (Satisfaction of Things), iRAMS using AI
 - [카드·현금 필요 없어요…‘얼굴’로 밥값 결제](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=032&aid=0003005442) : LG CNS 얼굴 인식 결제 및 Blockchain & AI 연동
 - [진짜 '모바일 운전면허증'은 내년..."카드 발급도 가능" (2020.06)](https://zdnet.co.kr/view/?no=20200623171121) : 정부주도 DID 운전면허증 vs 통신3사+PASS앱
-- [SGA비엘씨, SK텔레콤과 손잡고 차세대 인증 시장 도약](http://www.newspim.com/news/view/20200824000620) : FIDO 기반 PASS (본인인증) & Initial (전자증명)
+- [SGA비엘씨, SK텔레콤과 손잡고 차세대 인증 시장 도약 (2020.08)](http://www.newspim.com/news/view/20200824000620) : FIDO 기반 PASS (본인인증) & Initial (전자증명)
