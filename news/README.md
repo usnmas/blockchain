@@ -15,7 +15,8 @@
 - [Status DApp](https://status.im/) : Messaging DApp. Web3 browser
 - [블록체인 업계, 기술 차별화 전략 "특허 선점하라" (2020.08)](https://www.etnews.com/20200826000139) : 젠서 (LPWAN) / SGA (클러스터 분할 연산)
 - [개발자경험 끌어올린 BaaS로 디앱 개발 전과정 돕겠다 (2019.05)](https://www.mk.co.kr/news/economy/view/2019/05/290418/) : 람다256 루니버스 특징
-- [[리뷰] 쉽게 이해하는 블록체인 : 암호화폐 자금세탁방지](https://theorydb.github.io/review/2020/10/17/review-book-crypto-laundering-prevention/) : 책 소개  
+- [[리뷰] 쉽게 이해하는 블록체인 : 암호화폐 자금세탁방지](https://theorydb.github.io/review/2020/10/17/review-book-crypto-laundering-prevention/) : 책 소개 
+- [오라클 DB, 무료 블록체인 기능으로 보안 강화](http://www.bloter.net/archives/534684) : DB Data 저장시 row 간 연결 및 Hash 값을 ethereum 등에 저장  
 
 ## IoT-related Business News 
 - [국내 업체들 독특한 ‘IoT 플랫폼’ 출시 잇따라](http://www.press9.kr/news/articleView.html?idxno=43496) : xensor (블록체인기반 sensed data & long range GW), SoT (Satisfaction of Things), iRAMS using AI
