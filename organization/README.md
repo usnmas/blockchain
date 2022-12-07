@@ -17,5 +17,6 @@
 - [두나무 News](https://www.hankyung.com/finance/article/202209279542B) : 업비트 / 람다256)
   - [CYPHRLY](https://cyphrly.io/) : NFT Marketplace
   - [LEVVELS](https://www.levvels.io/) : w HYBE (BTS)
-
+  - [업비트 News](https://newsis.com/view/?id=NISX20221129_0002105127&cID=15001&pID=15000)
+  - [두나무 News](https://biz.chosun.com/stock/finance/2022/12/07/HC33YWV47VAAVEHD3N643UTK6I/?utm_source=naver&utm_medium=original&utm_campaign=biz)
 
